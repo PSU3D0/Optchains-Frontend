@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Optchains Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the React Frontend that powers optchains.com
 
 ## Available Scripts
 
