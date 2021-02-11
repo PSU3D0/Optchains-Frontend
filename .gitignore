@@ -21,7 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 
 Dockerfile*
 yarn.lock
 *.sh
+=======
+>>>>>>> parent of a47867c... First push of project
