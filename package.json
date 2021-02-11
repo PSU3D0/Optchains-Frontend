@@ -2,13 +2,23 @@
   "name": "optchain",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://52.71.152.103",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-bootstrap-typeahead": "^5.1.4",
+    "react-data-table-component": "^6.11.6",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "recharts": "2.0.0-beta.8",
+    "styled-components": "^5.2.1",
+    "underscore": "^1.12.0",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
